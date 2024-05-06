@@ -1,0 +1,21 @@
+.btnEnvio{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    width: 350px;
+    height: 40px;
+    border-radius: 25px;
+    border: transparent;
+    align-items: center;
+    font-size: 15px;
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+    transition: 1s;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btnEnvio:hover{
+    background-color: white;
+    color: hsl(25, 97%, 53%);
+}

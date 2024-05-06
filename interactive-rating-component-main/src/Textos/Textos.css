@@ -1,0 +1,13 @@
+.titulo{
+    font-size: 26px;
+    color: white;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.subtitulo{
+    font-size: 15px;
+    color: hsl(216, 12%, 54%);
+    font-weight: 500;
+    margin-top: 20px;
+}
